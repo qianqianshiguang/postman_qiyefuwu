@@ -1,0 +1,24 @@
+{
+	"id": "0213d55e-fb3a-47b0-8e72-44118302c2a7",
+	"values": [
+		{
+			"key": "echo_digest_nonce",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "echo_digest_realm",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "Bearer 881ad570-790c-4160-9bef-f17dbf80c6fe",
+			"enabled": true
+		}
+	],
+	"name": "My Workspace Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2021-03-04T12:59:44.464Z",
+	"_postman_exported_using": "Postman/7.36.5"
+}
